@@ -4,6 +4,9 @@ Informant keeps you in the loop while colaborating using *svn*
 - Keep tabs on svn changes being done on the repo. It evidently lets you know if your working copy is not upto date
 - It reminds you that your working copy has staged / uncommited changes
 
+Hi Hussain,
+Please remove this.
+
 Samples
 -------
 ![sample output for files with status M](https://github.com/hussaintamboli/informant/raw/master/screenshots/sample_output_modified.png "sample output for files with status M")
