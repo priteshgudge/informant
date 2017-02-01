@@ -7,6 +7,10 @@ Informant keeps you in the loop while colaborating using *svn*
 Hi Hussain,
 Please remove this.
 
+
+next change
+
+---------------__>
 Samples
 -------
 ![sample output for files with status M](https://github.com/hussaintamboli/informant/raw/master/screenshots/sample_output_modified.png "sample output for files with status M")
